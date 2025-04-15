@@ -1,4 +1,4 @@
-package main
+package kclib
 
 import (
 	"crypto/tls"
